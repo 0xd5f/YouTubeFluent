@@ -18,14 +18,3 @@
 
 - #### [4] **[Use JS Code](https://github.com/0xd5f/YouTubeFluent/blob/main/theme/script.js "Use JS Code").**
 
-
-## Credits:
-
-Scripts found here:
-[RikisuT](https://github.com/RikisuT/Youtube-Fluent-Theme "RikisuT") -
-
-Original Author:
-[Simon Galver](https://userstyles.org/users/854680 "Simon Galver") - 
-
-
-**01/08/2022.**
